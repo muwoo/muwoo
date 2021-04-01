@@ -1,9 +1,7 @@
-![image](https://github.com/muwoo/muwoo/blob/main/84fad9702968fe566b727e77423e2670.gif)
 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-  ![](https://komarev.com/ghpvc/?username=muwoo&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
-### Hello   <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
+![](https://komarev.com/ghpvc/?username=muwoo&color=blue&style=flat-square&label=PROFILE+VIEWS)
   
 :heart: Programming | :green_heart: Dota | :blue_heart: Anime
   
@@ -33,14 +31,10 @@ Software Engineering Graduate 2015. My passion for software lies with dreaming u
 
 -------
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+📊 **Most Used Languages**
 
------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muwoo&layout=compact)](https://github.com/muwoo/github-readme-stats)
+
   
   
 **What I love**
@@ -49,7 +43,13 @@ No Activity tracked this Week
 | :---: | :---: | :---: |
 | <b>Coding</b> | <b>Dota</b> | <b>Anime</b> |
 
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+### Pinned
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muwoo&repo=blogs)](https://github.com/muwoo/blogs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muwoo&repo=vnode2canvas)](https://github.com/muwoo/vnode2canvas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muwoo&repo=vue-form-render)](https://github.com/muwoo/vue-form-render)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VV-UI&repo=VV-UI)](https://github.com/VV-UI/VV-UI)
+
+
+![image](https://github.com/muwoo/muwoo/blob/main/84fad9702968fe566b727e77423e2670.gif)
 
