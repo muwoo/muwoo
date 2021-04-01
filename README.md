@@ -25,8 +25,7 @@ Software Engineering Graduate 2015. My passion for software lies with dreaming u
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
-  
-![muwoo GitHub Stats](https://github-readme-stats.vercel.app/api?username=muwoo&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/muwoo/muwoo/blob/main/5fd282b08749dcb9ecb56d1fd52fe567.gif" width="300" height="255">
+[![muwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=muwoo)](https://github.com/muwoo/github-readme-stats)<img align="right" src="https://github.com/muwoo/muwoo/blob/main/5fd282b08749dcb9ecb56d1fd52fe567.gif" width="300" height="190">
  
 
 -------
@@ -49,7 +48,4 @@ Software Engineering Graduate 2015. My passion for software lies with dreaming u
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muwoo&repo=vnode2canvas)](https://github.com/muwoo/vnode2canvas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muwoo&repo=vue-form-render)](https://github.com/muwoo/vue-form-render)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VV-UI&repo=VV-UI)](https://github.com/VV-UI/VV-UI)
-
-
-![image](https://github.com/muwoo/muwoo/blob/main/84fad9702968fe566b727e77423e2670.gif)
 
