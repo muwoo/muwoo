@@ -1,12 +1,8 @@
-<p align="center">
-   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>
-  
-.
-  
+
+ 84fad9702968fe566b727e77423e2670.gif![image](https://user-images.githubusercontent.com/21073039/113235871-67f99a80-92d6-11eb-9d7c-926ef076247e.png)
 
 
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=muwoo&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ### Hello   <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
   
