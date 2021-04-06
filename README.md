@@ -42,10 +42,3 @@ Software Engineering Graduate 2015. My passion for software lies with dreaming u
 | :---: | :---: | :---: |
 | <b>Coding</b> | <b>Dota</b> | <b>Anime</b> |
 
-
-### Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muwoo&repo=blogs)](https://github.com/muwoo/blogs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muwoo&repo=vnode2canvas)](https://github.com/muwoo/vnode2canvas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muwoo&repo=vue-form-render)](https://github.com/muwoo/vue-form-render)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VV-UI&repo=VV-UI)](https://github.com/VV-UI/VV-UI)
-
