@@ -38,7 +38,7 @@ Software Engineering Graduate 2015. My passion for software lies with dreaming u
   
 **What I love**
 
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/2e8889106108c13c8661c863c714a0c3.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/2e8889106108c13c8661c863c714a0c3.gif width="110" height="100"> | <img src=https://github.com/muwoo/muwoo/blob/main/1527df1ff09dca815ea5c1c47a89f384.gif width="160" height="100"> | 
 | :---: | :---: | :---: |
 | <b>Coding</b> | <b>Dota</b> | <b>Anime</b> |
 
